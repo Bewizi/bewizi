@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Bewizi/bewizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you start# 👋 Hi, I’m Toluwalase
+ 👋 Hi, I’m Toluwalase
 
 I’m a **Flutter mobile application developer** focused on building clean, reliable, and user-friendly mobile applications. I enjoy turning ideas and requirements into stable, well-structured products with a strong emphasis on maintainability and user experience.
 
@@ -55,8 +53,8 @@ If you’re looking for someone who values reliability, clear communication, and
 ## 📫 Let’s Connect
 
 You can reach out to me through:
-- LinkedIn
-- Twitter (X)
+- LinkedIn: https://www.linkedin.com/in/toluwalase-bewaji-ba73ab198/
+- Twitter (X): https://x.com/__onlychild
 - GitHub discussions or issues on my repositories
 
 Thanks for stopping by — feel free to explore my projects and reach out if you’d like to work together.ed:
@@ -69,4 +67,3 @@ Thanks for stopping by — feel free to explore my projects and reach out if you
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
